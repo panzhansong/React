@@ -1,0 +1,10 @@
+.tab {
+    width: 200px;
+    height: 200px;
+    .content {
+        display: none;
+        &.active{
+            display: block;
+        }
+    }
+}
