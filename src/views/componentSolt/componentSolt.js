@@ -7,7 +7,7 @@ export default class ComponentSlot extends React.Component {
     // }
     render () {
         return (
-            <div>
+            <div className='componentSlot'>
                 <h1>组件插槽</h1>
                 <ComponentSlotChildren>
                     <h1 data-position='header'>这是放置在头部的内容</h1>
