@@ -1,4 +1,4 @@
-# React-Study
+# React
 
 ### git的基本使用 
 
